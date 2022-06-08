@@ -1,5 +1,10 @@
 # ExpensesChartComponent
 
+<h2>https://lespuch-v.github.io/dynamic-chart-component/</h2>
+
+![angular chart component](https://user-images.githubusercontent.com/36127590/172689640-b82a2b77-019b-4846-9e0f-49ec42faa638.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
